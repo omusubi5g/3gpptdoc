@@ -183,22 +183,12 @@ C:\Users\omusubi\Downloads>python ftp.py
 0. このディレクトリをダウンロード
 -1. 親ディレクトリに戻る
 選択してください (数字を入力): 0
+
 Excelファイルをダウンロードしました: TDoc_List_Meeting_RAN#104.xlsx
 ダウンロード完了: RP-240861.zip
 RP-240861.zip を agenda フォルダに振り分け、解凍しました。
 ダウンロード完了: RP-240862.zip
+
 RP-240862.zip を report フォルダに振り分け、解凍しました。
 ダウンロード完了: RP-240863.zip
 RP-240863.zip を report フォルダに振り分け、解凍しました。
-ダウンロード完了: RP-240864.zip
-RP-240864.zip を discussion フォルダに振り分け、解凍しました。
-ダウンロード完了: RP-240865.zip
-RP-240865.zip を report フォルダに振り分け、解凍しました。
-ダウンロード完了: RP-240866.zip
-RP-240866.zip を discussion フォルダに振り分け、解凍しました。
-ダウンロード完了: RP-240867.zip
-RP-240867.zip を report フォルダに振り分け、解凍しました。
-ダウンロード完了: RP-240868.zip
-RP-240868.zip を discussion フォルダに振り分け、解凍しました。
-ダウンロード完了: RP-240869.zip
-RP-240869.zip を report フォルダに振り分け、解凍しました。
