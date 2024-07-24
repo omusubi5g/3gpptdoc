@@ -1,4 +1,4 @@
-## 使用例
+## 使用例 (Typeで振分。Related WIs振分はftp_wi.pyを使用します)
 
 C:\Users\omusubi\Downloads>python ftp.py
 
