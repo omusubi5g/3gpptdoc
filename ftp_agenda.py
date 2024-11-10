@@ -117,13 +117,13 @@ def download_ftp_folder(ftp_host, remote_dir, local_dir):
 
             header_row = None
             for row in sheet.iter_rows(values_only=True):
-                if 'TDoc' in row and 'Related WIs' in row:
+                if 'TDoc' in row and 'Agenda item' in row:
                     header_row = row
                     break
 
             if header_row:
                 tdoc_index = header_row.index('TDoc')
-                type_index = header_row.index('Related WIs')
+                type_index = header_row.index('Agenda item')
 
                 for row in sheet.iter_rows(min_row=sheet.min_row + 1, values_only=True):
                     if len(row) > max(tdoc_index, type_index):
